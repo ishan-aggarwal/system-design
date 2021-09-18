@@ -1,2 +1,2 @@
 # system-design
-System Design questions discussion
+System Design questions notes
